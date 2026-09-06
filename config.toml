@@ -1,4 +1,4 @@
-baseURL = "https://garisfajarnusantaraabadi.id"
+baseURL = "https://garisfajarnusantaraabadi.web.id"
 languageCode = "en-us"
 paginate = 5
 theme = "portio"
@@ -31,31 +31,31 @@ url = "#"
 weight = 6
 [[menu.sitemap]]
 name = "Tentang"
-url = "https://garisfajarnusantaraabadi.id/#about"
+url = "https://garisfajarnusantaraabadi.web.id/#about"
 weight = 1
 [[menu.sitemap]]
 name = "Pinned Information"
-url = "https://garisfajarnusantaraabadi.id/#service"
+url = "https://garisfajarnusantaraabadi.web.id/#service"
 weight = 2
 [[menu.sitemap]]
 name = "Galeri"
-url = "https://garisfajarnusantaraabadi.id/#portfolio"
+url = "https://garisfajarnusantaraabadi.web.id/#portfolio"
 weight = 3
 [[menu.sitemap]]
 name = "Informasi"
-url = "https://garisfajarnusantaraabadi.id/#blog"
+url = "https://garisfajarnusantaraabadi.web.id/#blog"
 weight = 4
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
-copyright = "All rights reserved © Biro Puskominfo GFN 2023"
+copyright = "All rights reserved © Biro Puskominfo GFNA 2026"
 footerLogo = "images/my-image/SMAIA-LOGO.png"
 formspreeURL = "https://formspree.io/f/meqvzkwn"
 googleAnalytics = "G-KES8R3D2NC"
 logo = "images/my-image/SMAIA-LOGO.png"
 [params.address]
 address = "Jakarta"
-email = "mail@garisfajarnusantaraabadi.id"
+email = "mail@garisfajarnusantaraabadi.web.id"
 openingHours = "24 Hours"
 phone = ""
 [params.map]
